@@ -1,4 +1,4 @@
-# Instagram Clone
+# Instagram Porfile Page Clone
 
 A web application that replicates some functionalities of the Instagram platform, focusing on user profile management and post interactions.
 
